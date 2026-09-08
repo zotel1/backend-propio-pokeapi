@@ -1,0 +1,12 @@
+GET http://localhost:1234/pokemon/charizard
+
+
+## Para crear un nuevo pokemon, se puede usar el siguiente endpoint:
+POST http://localhost:1234/pokemon
+Content-Type: application/json
+
+{
+  "name": "Pikachu",
+  "type": "Electric",
+  "level": 5
+}

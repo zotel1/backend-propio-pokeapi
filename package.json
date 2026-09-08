@@ -1,0 +1,29 @@
+{
+  "name": "backend-propio-pokeapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "http.js",
+  "scripts": {
+    "dev": "nodemon http.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zotel1/backend-propio-pokeapi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/zotel1/backend-propio-pokeapi/issues"
+  },
+  "homepage": "https://github.com/zotel1/backend-propio-pokeapi#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.14",
+    "standard": "^17.1.2"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  }
+}
