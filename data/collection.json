@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": 1,
+    "pokemonId": 25,
+    "name": "pikachu",
+    "nickname": "Chispita",
+    "notes": "Mi favorito"
+  }
+]
